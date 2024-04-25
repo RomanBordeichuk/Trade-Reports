@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/index.css">
+    <title>Головна</title>
+</head>
+<body>
+    <div class="container">
+        <div class="head_block">
+            <h1>Додавання нового замовлення</h1>
+            <nav>
+                <a href="products.html">Список товарів</a>
+                <a href="history.html">Історія продаж і статистика</a>
+            </nav>
+        </div>
+        <div class="form_block">
+            <h2>Інформація про замовлення</h2>
+            <div class="form">
+                <div class="date_block">
+                    <div>
+                        <span class="date">Дата:</span>
+                        <input class="date_input" type="date" 
+                            value="0001-01-01" disabled="true">
+                    </div>
+                    <button>
+                        <img src="img/edit.png" alt="" class="edit">
+                        <img src="img/check.png" alt="" class="check" style="display: none;">
+                    </button>
+                </div>
+                <div class="top_block">
+                    <div>
+                        <span class="client_num">Клієнт №:</span>
+                        <span class="client_num_value value">1</span>
+                    </div>
+                    <div>
+                        <span class="manager_payment">
+                            Оплата менеджерам за одну позицію товару (грн.):
+                        </span>
+                        <input class="manager_payment_input" type="number" value="0">
+                    </div>
+                </div>
+                <div class="products_list_block">
+                    <h3>Список замовлених товарів:</h3>
+                    <div class="products_list">
+                        <div class="choosen_products_list">
+
+                        </div>
+                        <div class="categories_list">
+                            
+                        </div>
+                        <button class="add_products_button">
+                            <div class="plus">
+                                <div class="line1 line"></div>
+                                <div class="line2 line"></div>
+                            </div>
+                            <span>Додати товар</span>
+                        </button>
+                    </div>
+                </div>
+                <div class="total_info_block">
+                    <div>
+                        <span>Сумарний чек (грн.):</span>
+                        <span class="sell_price value">0</span>
+                    </div>
+                    <div>
+                        <span>Сумарна закупівельна вартість (грн.):</span>
+                        <span class="buy_price value">0</span>
+                    </div>
+                    <div>
+                        <span>Дохід (грн.):</span>
+                        <span class="income value">0</span>
+                    </div>
+                </div>
+                <button class="save">Зберегти</button>
+            </div>
+        </div>
+    </div>
+    <div class="choose_products_block">
+        <span>Не вибрано жодного товару</span>
+        <button>OK</button>
+    </div>
+    <div class="successfully_saved_block">
+        <span>Замовлення збережено успішно!</span>
+        <button>OK</button>
+    </div>
+
+    <script type="module" src="js/newOrder/script.js"></script>
+</body>
+</html>

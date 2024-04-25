@@ -1,0 +1,277 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\css\\history.css",
+      "PackagePath": "staticwebassets\\css\\history.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\css\\products.css",
+      "PackagePath": "staticwebassets\\css\\products.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\history.html",
+      "PackagePath": "staticwebassets\\history.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\img\\check.png",
+      "PackagePath": "staticwebassets\\img\\check.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\img\\close.png",
+      "PackagePath": "staticwebassets\\img\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\img\\delete.png",
+      "PackagePath": "staticwebassets\\img\\delete.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\img\\down.png",
+      "PackagePath": "staticwebassets\\img\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\img\\edit.png",
+      "PackagePath": "staticwebassets\\img\\edit.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\img\\pencil.png",
+      "PackagePath": "staticwebassets\\img\\pencil.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\calculateDayStatsInfo.js",
+      "PackagePath": "staticwebassets\\js\\history\\calculateDayStatsInfo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\calculateTotalOrderInfo.js",
+      "PackagePath": "staticwebassets\\js\\history\\calculateTotalOrderInfo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\createDayObj.js",
+      "PackagePath": "staticwebassets\\js\\history\\createDayObj.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\createDayStats.js",
+      "PackagePath": "staticwebassets\\js\\history\\createDayStats.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\createDaysList.js",
+      "PackagePath": "staticwebassets\\js\\history\\createDaysList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\createMonthList.js",
+      "PackagePath": "staticwebassets\\js\\history\\createMonthList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\handleAddProductEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\history\\handleAddProductEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\handleCategoryToggleEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\history\\handleCategoryToggleEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\handleChangeInputEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\history\\handleChangeInputEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\handleDeleteOrderProductEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\history\\handleDeleteOrderProductEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\handleEditDollarCourseEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\history\\handleEditDollarCourseEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\handleEditOrderEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\history\\handleEditOrderEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\history.js",
+      "PackagePath": "staticwebassets\\js\\history\\history.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\loadProductsList.js",
+      "PackagePath": "staticwebassets\\js\\history\\loadProductsList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\sortDaysList.js",
+      "PackagePath": "staticwebassets\\js\\history\\sortDaysList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\history\\sortMonthList.js",
+      "PackagePath": "staticwebassets\\js\\history\\sortMonthList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\getCurrentDay.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\getCurrentDay.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\getDollarCourse.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\getDollarCourse.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\handleAddProductEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\handleAddProductEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\handleCategoryToggleEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\handleCategoryToggleEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\handleChangeDateEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\handleChangeDateEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\handleChangeManagerPaymentEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\handleChangeManagerPaymentEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\handleChangeNumProductsEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\handleChangeNumProductsEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\handleDeleteProductEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\handleDeleteProductEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\handleSaveOrderEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\handleSaveOrderEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\loadDayInfo.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\loadDayInfo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\loadProductsList.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\loadProductsList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\script.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\newOrder\\updateTotalInfo.js",
+      "PackagePath": "staticwebassets\\js\\newOrder\\updateTotalInfo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\products\\createCategoriesList.js",
+      "PackagePath": "staticwebassets\\js\\products\\createCategoriesList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\products\\handleAddCategoryEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\products\\handleAddCategoryEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\products\\handleAddProductEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\products\\handleAddProductEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\products\\handleCategoryToggleEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\products\\handleCategoryToggleEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\products\\handleDeleteProductEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\products\\handleDeleteProductEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\products\\handleEditCategoryEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\products\\handleEditCategoryEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\products\\handleEditProductEventListeners.js",
+      "PackagePath": "staticwebassets\\js\\products\\handleEditProductEventListeners.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\products\\products.js",
+      "PackagePath": "staticwebassets\\js\\products\\products.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\addCategory.js",
+      "PackagePath": "staticwebassets\\js\\requests\\addCategory.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\addProduct.js",
+      "PackagePath": "staticwebassets\\js\\requests\\addProduct.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\deleteProduct.js",
+      "PackagePath": "staticwebassets\\js\\requests\\deleteProduct.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\loadCategoriesList.js",
+      "PackagePath": "staticwebassets\\js\\requests\\loadCategoriesList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\loadDayInfo.js",
+      "PackagePath": "staticwebassets\\js\\requests\\loadDayInfo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\loadDaysList.js",
+      "PackagePath": "staticwebassets\\js\\requests\\loadDaysList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\loadMonthList.js",
+      "PackagePath": "staticwebassets\\js\\requests\\loadMonthList.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\loadOrderInfo.js",
+      "PackagePath": "staticwebassets\\js\\requests\\loadOrderInfo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\saveNewOrder.js",
+      "PackagePath": "staticwebassets\\js\\requests\\saveNewOrder.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\setDollarCourse.js",
+      "PackagePath": "staticwebassets\\js\\requests\\setDollarCourse.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\updateCategory.js",
+      "PackagePath": "staticwebassets\\js\\requests\\updateCategory.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\updateDollarCourse.js",
+      "PackagePath": "staticwebassets\\js\\requests\\updateDollarCourse.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\updateOrder.js",
+      "PackagePath": "staticwebassets\\js\\requests\\updateOrder.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\js\\requests\\updateProduct.js",
+      "PackagePath": "staticwebassets\\js\\requests\\updateProduct.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\Programming\\tradeReports\\main\\main\\wwwroot\\products.html",
+      "PackagePath": "staticwebassets\\products.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.main.props",
+      "PackagePath": "build\\main.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.main.props",
+      "PackagePath": "buildMultiTargeting\\main.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.main.props",
+      "PackagePath": "buildTransitive\\main.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.main.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

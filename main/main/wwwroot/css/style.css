@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--dark-gray);
+}
+body{
+    --body-color: #f2877c;
+    --text-color: #c94b4b;
+    --gray: #595959;
+    --dark-gray: #2b2b2b;
+    --light-gray: #e0e0e0;
+
+    background: var(--body-color);
+}
+.container{
+    margin: 0 auto;
+    max-width: 1000px;
+    background: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: normal;
+}
+span.value, input{
+    color: var(--text-color);
+    font-size: 18px;
+    font-weight: bold;
+}

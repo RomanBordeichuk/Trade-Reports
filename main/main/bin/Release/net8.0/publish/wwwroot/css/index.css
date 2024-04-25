@@ -1,0 +1,275 @@
+.head_block{
+    padding: 40px;
+    border-bottom: 5px solid var(--body-color);
+}
+.head_block h1{
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+.head_block nav{
+    display: flex;
+}
+.head_block nav a{
+    padding: 5px 20px;
+    margin-right: 40px;
+    background: var(--body-color);
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+
+.form_block{
+    padding: 40px;
+}
+.form_block h2{
+    margin-bottom: 30px;
+}
+.form .date_block{
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--light-gray);
+    border-radius: 10px;
+}
+.form .date_block .date{
+    margin-right: 10px;
+}
+.form .date_block input{
+    border-radius: 10px;
+    border: 0;
+    padding: 5px;
+    outline: none;
+}
+.form .date_block button{
+    display: flex;
+    align-items: center;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+.form .date_block img{
+    width: 25px;
+}
+.form .top_block{
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    background: var(--light-gray);
+    border-radius: 10px;
+}
+.form .top_block > div{
+    margin-right: 20px;
+    display: flex;
+}
+.form .top_block > div:last-child{
+    margin-right: 0;
+}
+.form .top_block span{
+    margin: 5px 0;
+    white-space: nowrap;
+}
+.form .top_block > div span:first-child{
+    margin-right: 5px;
+}
+.form .top_block input{
+    padding: 5px;
+    width: 100px;
+    outline: none;
+    border: 0;
+    border-radius: 5px;
+}
+.form .products_list_block{
+    padding: 10px;
+    margin-bottom: 10px;
+    background: var(--light-gray);
+    border-radius: 10px;
+}
+.form .products_list_block h3{
+    margin-bottom: 10px;
+}
+.form .products_list{
+    padding: 10px;
+    background: white;
+    border-radius: 10px;
+}
+.form .products_list .product{
+    padding: 10px 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 6fr 5fr 5fr 3fr 20px;
+    grid-template-rows: 1fr;
+}
+.form .products_list .product > div > span:first-child{
+    margin-right: 10px;
+}
+.form .products_list .product > div > span:last-child{
+    color: var(--text-color);
+    font-weight: bold;
+}
+.form .products_list .num_block{
+    white-space: nowrap;
+}
+.form .products_list .num_block input{
+    padding: 5px;
+    width: 40px;
+    border: 0px solid var(--dark-gray);
+    border-radius: 5px;
+}
+.form .products_list .cancel{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+.form .products_list .cancel img{
+    width: 20px;
+    position: relative;
+    top: 5px;
+}
+.categories_list{
+    margin-top: 10px;
+}
+.categories_list .category{
+    margin-bottom: 10px;
+}
+.categories_list .category:last-child{
+    margin-bottom: 0;
+}
+.categories_list .category .name{
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--light-gray);
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.categories_list .category .name div{
+    display: flex;
+    align-items: center;
+}
+.categories_list .category .name > div img{
+    margin-right: 20px;
+    width: 30px;
+}
+.categories_list .category .name img{
+    width: 25px;
+}
+.categories_list .products_list{
+    margin-left: 10px;
+    padding: 10px;
+}
+.categories_list .products_list .product{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 3fr 2fr 2fr;
+    grid-template-rows: 1fr;
+    background: transparent;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.categories_list .products_list .product:hover{
+    background: var(--light-gray);
+}
+.categories_list .products_list .buy_price span:first-child{
+    margin-right: 5px;
+}
+.categories_list .products_list .product > div > label:first-child{
+    margin-right: 5px;
+}
+.form .add_products_button{
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+.form .plus{
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    position: relative;
+}
+.form .plus .line{
+    width: 20px;
+    height: 4px;
+    background: var(--text-color);
+    border-radius: 3px;
+    position: absolute;
+}
+.form .plus .line1{
+    left: 0;
+    top: 8px;
+}
+.form .plus .line2{  
+    left: 0;
+    top: 8px;
+    transform: rotate(90deg);
+}
+.form span{
+    font-size: 16px;
+}
+.form .total_info_block{
+    padding: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    background: var(--light-gray);
+    border-radius: 10px;
+}
+.form .total_info_block > div{
+    margin-right: 20px;
+}
+.form .total_info_block > div:last-child{
+    margin-right: 0;
+}
+.form .save{
+    padding: 10px 40px;
+    background: var(--body-color);
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.choose_products_block, .successfully_saved_block{
+    padding: 20px;
+    width: 300px;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    border: 3px solid var(--body-color);
+    position: fixed;
+    left: calc(50% - 150px);
+    top: 45%;
+}
+.choose_products_block span, .successfully_saved_block span{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: var(--dark-gray);
+}
+.choose_products_block button, .successfully_saved_block button{
+    padding: 10px 50px;
+    background: var(--body-color);
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+
